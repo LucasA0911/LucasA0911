@@ -1,7 +1,7 @@
 ### Opa!! Eu sou o Lucas Alves 😄
 
 - 🔭 Atualmente estou a procura da minha primeira oportunidade em Front-End
-- 🌱 Estou estudando JAVASCRIPT, VUE.JS, CSSS, BOOTSTRAP e HTML 
+- 🌱 Estou estudando JAVASCRIPT, CSS e HTML 
 - 📫 Contate-me no meu email: lucass.alves0911@gmail.com, ou no LinkedIn https://www.linkedin.com/in/lucas-alves-dos-santos-61b1a0203/
 - 😄 Pronomes: Ele/Dele
 
@@ -13,13 +13,8 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Lucas-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Lucas-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="center" alt="Lucas-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-  <img align="center" alt="Lucas-Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
 </div>
   
   ##
