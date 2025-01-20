@@ -1,7 +1,7 @@
 ### Opa!! Eu sou o Lucas Alves 😄
 
-- 🔭 Atualmente estou a procura da minha primeira oportunidade em Front-End
-- 🌱 Estou estudando JAVASCRIPT, CSS e HTML 
+- 🔭 Estou a Procura de um Estágio ou uma vaga de Junior como Engenheiro de dados ou Analista de dados
+- 🌱 Atuei durante 2 anos como Trainee em engenharia de dados e possuo experiência com JavaScript, Node.js, HTML, CSS, Python, Pandas e Numpy, além de analises de dados, posso também criar sistemas back-end.
 - 📫 Contate-me no meu email: lucass.alves0911@gmail.com, ou no LinkedIn https://www.linkedin.com/in/lucas-alves-dos-santos-61b1a0203/
 - 😄 Pronomes: Ele/Dele
 
@@ -15,6 +15,11 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Node" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Lucas-Python" height="30" width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg">
 </div>
   
   ##
